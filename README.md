@@ -118,9 +118,11 @@ As part of the audit, I reviewed and worked with the following documents:
 
 ---
 
-### **Acknowledgement**
+## **Acknowledgements**
 
-For more information about the Google IT Support Professional Certificate, please visit [Coursera](https://www.coursera.org/professional-certificates/google-it-support).
+This project was completed as part of the **Google Cybersecurity Professional Certificate** on **Coursera**. The insights gained in this course informed the process reviews and improvements presented here.
+
+For more information about the **Google Cybersecurity Professional Certificate**, please visit [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
 
 
 
