@@ -63,6 +63,7 @@ As part of the audit, I reviewed and worked with the following documents:
 
  
 You can view the completed Controls and Compliance checklist here:
+
 [Completed Compliance and Controls Checiklist ](https://github.com/cherinejoseph/security-audit/blob/main/Completed-Controls-and-compliance-checklist.pdf)
 
 
