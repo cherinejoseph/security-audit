@@ -61,7 +61,15 @@ As part of the audit, I reviewed and worked with the following documents:
   - **Finding**: Not fully compliant with **GDPR** for EU customers.
   - **Recommendation**: Review and update data collection and processing practices to ensure full **GDPR** compliance.
 
+ 
+You can view the completed Controls and Compliance checklist here:
+[Completed Compliance and Controls Checiklist ](https://github.com/cherinejoseph/security-audit/blob/main/Completed-Controls-and-compliance-checklist.pdf)
+
+
  ---
+
+## Additional Info
+
 ### Security Audit Checklist for Botium Toys
 
 #### 1. Review the Scope, Goals, and Risk Assessment Report
